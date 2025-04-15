@@ -24,3 +24,6 @@
 ||suno
 ||copy.ai
 ||tabnine
+||duckduckgo.com/duckchat
+||duckchat
+||duckai
